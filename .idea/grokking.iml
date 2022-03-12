@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="kevin-cv" />
+    <orderEntry type="module" module-name="kevin-projects" />
+    <orderEntry type="module" module-name="pytorch_notebooks" />
   </component>
 </module>

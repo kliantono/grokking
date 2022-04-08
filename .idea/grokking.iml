@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="kevin-cv" />
     <orderEntry type="module" module-name="kevin-projects" />
     <orderEntry type="module" module-name="pytorch_notebooks" />
+    <orderEntry type="module" module-name="machine_learning_examples" />
   </component>
 </module>

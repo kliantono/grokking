@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/grokking.iml" filepath="$PROJECT_DIR$/.idea/grokking.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kevin-cv/.idea/kevin-cv.iml" filepath="$PROJECT_DIR$/../kevin-cv/.idea/kevin-cv.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kevin-projects/.idea/kevin-projects.iml" filepath="$PROJECT_DIR$/../kevin-projects/.idea/kevin-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine_learning_examples/.idea/machine_learning_examples.iml" filepath="$PROJECT_DIR$/../machine_learning_examples/.idea/machine_learning_examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pytorch_notebooks/.idea/pytorch_notebooks.iml" filepath="$PROJECT_DIR$/../pytorch_notebooks/.idea/pytorch_notebooks.iml" />
     </modules>
   </component>

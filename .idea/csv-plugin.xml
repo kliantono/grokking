@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20220407_personalize_items_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 25:: Working with CSV Data and the Pandas Library/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
           <value>
             <Attribute>
@@ -67,6 +74,13 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../machine_learning_examples/ml-latest-small/tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/dumpDataPreview">
           <value>
             <Attribute>
               <option name="separator" value="," />

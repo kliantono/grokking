@@ -52,7 +52,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../machine_learning_examples/RecSys-Materials/ml-latest-small/movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../machine_learning_examples/RecSys-Materials/ml-latest-small/workout_items.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../machine_learning_examples/RecSys-Materials/ml-latest-small/workout_ratings.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

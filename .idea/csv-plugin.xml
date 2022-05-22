@@ -17,7 +17,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 25:: Working with CSV Data and the Pandas Library/new_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 25:: Working with CSV Data and the Pandas Library/squirrel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 25:: Working with CSV Data and the Pandas Library/squirrel_count.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -46,6 +60,153 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 31: Flash Card App Capstone Project/flash-card-project-start/data/words_to_learn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 17 - Kernel SVM/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 3 - Classification/Section 20 - Random Forest Classification/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/Ads_CTR_Optimisation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Ads_CTR_Optimisation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/Wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/Wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/interview-data-challenge/dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/interview-data-challenge/interview_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/interview-data-challenge/service_type_trade_id.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - Machine Learning A-Z/interview-data-challenge/zip_lon_lat_demograph.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

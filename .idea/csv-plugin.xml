@@ -255,6 +255,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../pytorch_notebooks/For You Recommender/RecSys-Materials/ml-latest-small/ratings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

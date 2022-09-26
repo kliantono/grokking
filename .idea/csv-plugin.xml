@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20220531_segmentation_engaged_last_4_weeks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20220722_subscribers.csv">
           <value>
             <Attribute>
@@ -249,13 +256,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../pytorch_notebooks/For You Recommender/RecSys-Materials/ml-latest-small/ratings.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/dumpDataPreview">
           <value>
             <Attribute>
               <option name="separator" value="," />

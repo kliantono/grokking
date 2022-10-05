@@ -28,3 +28,35 @@ def groupAnagrams(strs):
 
 strs = ["eat","tea","tan","ate","nat","bat"]
 groupAnagrams(strs)
+
+
+
+def isValidSudoku(board):
+    cols = collections.defaultdict(set)
+    rows = collections.defaultdict(set)
+    squares = collections.defaultdict(set)  # key = (r /3, c /3)
+
+    for r in range(9):
+        for c in range(9):
+            if board[r][c] == ".":
+                continue
+            if (
+                board[r][c] in rows[r]
+                or board[r][c] in cols[c]
+                or board[r][c] in squares[(r // 3, c // 3)]
+            ):
+                return False
+            cols[c].add(board[r][c])
+            rows[r].add(board[r][c])
+            squares[(r // 3, c // 3)].add(board[r][c])
+
+    return True
+
+
+board = [[".", ".", ".", ".", "5", ".", ".", "1", "."], [".", "4", ".", "3", ".", ".", ".", ".", "."],
+         [".", ".", ".", ".", ".", "3", ".", ".", "1"], ["8", ".", ".", ".", ".", ".", ".", "2", "."],
+         [".", ".", "2", ".", "7", ".", ".", ".", "."], [".", "1", "5", ".", ".", ".", ".", ".", "."],
+         [".", ".", ".", ".", ".", "2", ".", ".", "."], [".", "2", ".", "9", ".", ".", ".", ".", "."],
+         [".", ".", "4", ".", ".", ".", ".", ".", "."]]
+isValidSudoku((board))
+

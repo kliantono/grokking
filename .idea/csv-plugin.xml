@@ -241,6 +241,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../pytorch_notebooks/Jupyter Notebooks/Experiment P-Value Calc/experiment_metrics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../pytorch_notebooks/Jupyter Notebooks/PyTorch Recommender/data/movies.csv">
           <value>
             <Attribute>

@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="kevin-projects" />
     <orderEntry type="module" module-name="pytorch_notebooks" />
     <orderEntry type="module" module-name="machine_learning_examples" />
+    <orderEntry type="module" module-name="airflow-mgmt-v2" />
   </component>
 </module>

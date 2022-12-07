@@ -9,5 +9,7 @@
     <orderEntry type="module" module-name="pytorch_notebooks" />
     <orderEntry type="module" module-name="machine_learning_examples" />
     <orderEntry type="module" module-name="airflow-mgmt-v2" />
+    <orderEntry type="module" module-name="dbt_analytics" />
+    <orderEntry type="module" module-name="analytics" />
   </component>
 </module>

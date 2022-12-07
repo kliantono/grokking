@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../airflow-mgmt-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../analytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dbt_analytics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../machine_learning_examples" vcs="Git" />
   </component>
 </project>

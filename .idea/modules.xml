@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../airflow-mgmt-v2/.idea/airflow-mgmt-v2.iml" filepath="$PROJECT_DIR$/../airflow-mgmt-v2/.idea/airflow-mgmt-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../analytics/.idea/analytics.iml" filepath="$PROJECT_DIR$/../analytics/.idea/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbt_analytics/.idea/dbt_analytics.iml" filepath="$PROJECT_DIR$/../dbt_analytics/.idea/dbt_analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/grokking.iml" filepath="$PROJECT_DIR$/.idea/grokking.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kevin-cv/.idea/kevin-cv.iml" filepath="$PROJECT_DIR$/../kevin-cv/.idea/kevin-cv.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kevin-projects/.idea/kevin-projects.iml" filepath="$PROJECT_DIR$/../kevin-projects/.idea/kevin-projects.iml" />

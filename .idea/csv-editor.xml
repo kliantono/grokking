@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="$PROJECT_DIR$/../kevin-projects/Artificial Intelligence/users.csv">
+        <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20221219_user_segmentation_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
@@ -35,13 +35,6 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/dumpDataPreview">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>

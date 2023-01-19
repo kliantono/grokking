@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20220722_engaged_subscribers_last_30_days.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL/20221219_user_segmentation_dataset.csv">
           <value>
             <Attribute>

@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../intel-squad-docs/Growth/Churn Prediction Model/predictions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../kevin-projects/Bootcamp - 100 Days of Code/Day 31: Flash Card App Capstone Project/flash-card-project-start/data/mandarin_words.csv">
           <value>
             <Attribute>

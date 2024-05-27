@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/../../../Companies/4. Within/Data Folders/SQL/Postgres/SQL" dialect="Snowflake" />
+    <file url="file://$PROJECT_DIR$/../dbt_analytics" dialect="GenericSQL" />
     <file url="PROJECT" dialect="Snowflake" />
   </component>
 </project>

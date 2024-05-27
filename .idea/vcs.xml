@@ -3,9 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../airflow-mgmt-v2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../analytics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dbt_analytics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../intel-squad-docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kevin-cv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kevin-projects" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../machine_learning_examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pytorch_notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pytorch_notebooks/Jupyter Notebooks/mmf" vcs="Git" />
   </component>
 </project>

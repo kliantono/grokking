@@ -38,6 +38,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Python Crash Course/LinkedPayingMembers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Python Crash Course/LinkedProfilesCumulative.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kevin-projects/Python Crash Course/projected_linked_members.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../pytorch_notebooks/Jupyter Notebooks/Experiment P-Value Calc/Experiment Results/experiment_metrics.csv">
           <value>
             <Attribute>
